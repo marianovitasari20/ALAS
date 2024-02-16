@@ -1,6 +1,11 @@
 # ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data
 
-This repository contains the code developed for the paper "**ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data**," as published in **AISTATS 2024**, with the following authors: **Maria Carolina Novitasari (University College London), Johannes Quaas (Universität Leipzig), Miguel R.D. Rodrigues (University College London)**. While our work is specifically designed for autoconversion rates prediction, the code can be repurposed for a broad range of other applications.
+This repository contains the code developed for the paper "**ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data**," as published in **AISTATS 2024**, with the following authors: <br>
+- **Maria Carolina Novitasari (University College London)**
+- **Johannes Quaas (Universität Leipzig)**
+- **Miguel R.D. Rodrigues (University College London)**
+
+While our work is specifically designed for autoconversion rates prediction, the code can be repurposed for a broad range of other applications.
 
 ## Abstract
 High-resolution simulations, such as the ICOsahedral Non-hydrostatic Large-Eddy Model (ICON-LEM), provide valuable insights into the complex interactions among aerosols, clouds, and precipitation, which are the major contributors to climate change uncertainty. However, due to their exorbitant computational costs, they can only be employed for a limited period and geographical area. To address this, we propose a more cost-effective method powered by an emerging machine learning approach to better understand the intricate dynamics of the climate system. Our approach involves active learning techniques by leveraging high-resolution climate simulation as an oracle that is queried based on an abundant amount of unlabeled data drawn from satellite observations. In particular, we aim to predict autoconversion rates, a crucial step in precipitation formation, while significantly reducing the need for a large number of labeled instances. In this study, we present novel methods: custom query strategy fusion for labeling instances -- weight fusion (WiFi) and merge fusion (MeFi) -- along with active feature selection based on SHAP. These methods are designed to tackle real-world challenges -- in this case, climate change, with a specific focus on the prediction of autoconversion rates -- due to their simplicity and practicality in application.
