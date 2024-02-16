@@ -1,5 +1,4 @@
-# ALAS
-ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data
+# ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data
 
 This repository contains the code developed for the paper "**ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data**," as published in **AISTATS 2024**, with the following authors: **Maria Carolina Novitasari (University College London), Johannes Quaas (Universität Leipzig), Miguel R.D. Rodrigues (University College London)**. While our work is specifically designed for autoconversion rates prediction, the code can be repurposed for a broad range of other applications.
 
