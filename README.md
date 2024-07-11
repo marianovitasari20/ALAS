@@ -61,5 +61,5 @@ For experiments on **autoconversion rates prediction**, please execute `main_aut
 ## Citation
 If you use any part of this code, whether in whole or in part, as a component of your project or research, please cite the following paper:
 
-C Novitasari, M., Quaas, J. &amp; Rodrigues, M.. (2024).  ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data . <i>Proceedings of The 27th International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 238:3358-3366 Available from https://proceedings.mlr.press/v238/c-novitasari24a.html.
+C Novitasari, M., Quaas, J. &amp; Rodrigues, M.. (2024).  ALAS: Active Learning for Autoconversion Rates Prediction from Satellite Data . <i>Proceedings of The 27th International Conference on Artificial Intelligence and Statistics</i>, in <i>Proceedings of Machine Learning Research</i> 238:3358-3366 Available from https://proceedings.mlr.press/v238/novitasari24a.html.
 
